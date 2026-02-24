@@ -44,7 +44,7 @@ export const ThemeOrganic: React.FC<Props> = ({ page, setPage }) => {
           {page === Page.TOP && (
             <div className="fade-in">
               <div className="h-[60vh] relative overflow-hidden">
-                <img src="https://ik.imagekit.io/satelliteshiosaipic/floor2.jpg?updatedAt=1771561132503" className="absolute inset-0 w-full h-full object-cover" alt="Salon Vibe" />
+                <img src="https://ik.imagekit.io/Satelliteasa/floor2.jpg" className="absolute inset-0 w-full h-full object-cover" alt="Salon Vibe" />
                 <div className="absolute inset-0 bg-[#4A5D4F]/20" />
                 <div className="absolute bottom-0 left-0 p-12 bg-white/80 backdrop-blur-sm rounded-tr-[50px]">
                   <p className="text-2xl font-serif italic mb-2">Refining your daily life.</p>
@@ -88,7 +88,7 @@ export const ThemeOrganic: React.FC<Props> = ({ page, setPage }) => {
               
               <div className="space-y-24">
                 <div className="grid md:grid-cols-2 gap-12 items-center">
-                  <img src="https://ik.imagekit.io/satelliteshiosaipic/floor5_1.jpg?updatedAt=1771561134271" className="rounded-2xl shadow-xl rotate-2 hover:rotate-0 transition-transform duration-700" alt="Concept 1" />
+                  <img src="https://ik.imagekit.io/Satelliteasa/floor5_1.jpg" className="rounded-2xl shadow-xl rotate-2 hover:rotate-0 transition-transform duration-700" alt="Concept 1" />
                   <div>
                     <h3 className="text-2xl font-serif mb-6 text-[#8B9D83]">日常に溶け込む、<br/>上質な時間。</h3>
                     <p className="font-sans leading-loose text-justify opacity-80">

@@ -61,7 +61,7 @@ export const ThemeCyber: React.FC<Props> = ({ page, setPage }) => {
             {/* Hero */}
             <section className="relative h-[calc(100vh-5rem)] w-full overflow-hidden">
                <img 
-                 src="https://ik.imagekit.io/satelliteshiosaipic/floor2.jpg?updatedAt=1771561132503" 
+                 src="https://ik.imagekit.io/Satelliteasa/floor2.jpg" 
                  className="w-full h-full object-cover object-center grayscale-[20%] contrast-[0.9] brightness-110" 
                  alt="Salon Interior" 
                />
@@ -116,7 +116,7 @@ export const ThemeCyber: React.FC<Props> = ({ page, setPage }) => {
         {page === Page.CONCEPT && (
           <div className="fade-in">
              <div className="h-[50vh] w-full relative">
-                <img src="https://ik.imagekit.io/satelliteshiosaipic/floor5_1.jpg?updatedAt=1771561134271" className="w-full h-full object-cover" alt="Concept" />
+                <img src="https://ik.imagekit.io/Satelliteasa/floor5_1.jpg" className="w-full h-full object-cover" alt="Concept" />
                 <div className="absolute inset-0 bg-black/20 flex items-center justify-center">
                    <h2 className="text-white text-4xl font-serif tracking-[0.2em]">CONCEPT</h2>
                 </div>

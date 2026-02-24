@@ -53,7 +53,7 @@ export const ThemeIndustrial: React.FC<Props> = ({ page, setPage }) => {
             {/* Hero */}
             <section className="h-[80vh] w-full relative flex items-center justify-center overflow-hidden">
                <div className="absolute inset-0 bg-slate-50">
-                 <img src="https://ik.imagekit.io/satelliteshiosaipic/floor2.jpg?updatedAt=1771561132503" className="w-full h-full object-cover opacity-80 grayscale contrast-125" alt="Clean Cut" />
+                 <img src="https://ik.imagekit.io/Satelliteasa/floor2.jpg" className="w-full h-full object-cover opacity-80 grayscale contrast-125" alt="Clean Cut" />
                </div>
                <div className="relative z-10 text-center space-y-6 max-w-2xl px-6">
                  <p className="text-xs font-bold tracking-[0.3em] uppercase text-white bg-black inline-block px-3 py-1">Kashima City</p>
@@ -129,7 +129,7 @@ export const ThemeIndustrial: React.FC<Props> = ({ page, setPage }) => {
               </div>
 
               <div className="w-full max-w-4xl mx-auto">
-                 <img src="https://ik.imagekit.io/satelliteshiosaipic/floor5_1.jpg?updatedAt=1771561134271" className="w-full h-[500px] object-cover rounded-2xl grayscale hover:grayscale-0 transition-all duration-700 shadow-xl" alt="Space" />
+                 <img src="https://ik.imagekit.io/Satelliteasa/floor5_1.jpg" className="w-full h-[500px] object-cover rounded-2xl grayscale hover:grayscale-0 transition-all duration-700 shadow-xl" alt="Space" />
               </div>
             </div>
           </div>
